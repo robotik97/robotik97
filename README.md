@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @robotik97
-- 👀 I’m interested in the work of a frontend developer
-- 🌱 I’m currently learning React
-- 📫 How to reach me -
-  Email: edhar97@gmail.com;
-  Instagram: epic_tu_res;
-  Instagram: robotik_bro. 
-- 💞️ Thanks ...
+**Krasikov Edgar**
+*Frontend Developer*
+[My Linkedin]( https://www.linkedin.com/in/edgar-krasikov-6527031ba/)
+
+**Extra skills**
+*JavaScript
+*CSS
+*HTML
+*Bootstrap
+*React
+*github(console)
+*ESlint
+*Prettier airbnb
+*SASS
+*LESS.
+*English (level A2/B1)
+
+###My priorities:### interesting work, opportunity to develop, pleasant working atmosphere, balance between work and personal life.
