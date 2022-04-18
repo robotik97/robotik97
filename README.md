@@ -2,7 +2,7 @@
 *Frontend Developer*
 [My Linkedin]( https://www.linkedin.com/in/edgar-krasikov-6527031ba/)
 
-**Extra skills**
+##Extra skills##
 *JavaScript
 *CSS
 *HTML
