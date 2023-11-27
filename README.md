@@ -8,11 +8,10 @@ CSS.
 HTML.
 Bootstrap.
 React.
+Vue.
+Angular.
 github(console).
-ESlint.
-Prettier airbnb.
 SASS.
-LESS.
-English (level A2/B1).
+English (level A2).
 
 **My priorities:** interesting work, opportunity to develop, pleasant working atmosphere, balance between work and personal life.
