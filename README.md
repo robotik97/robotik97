@@ -1,5 +1,4 @@
 **Krasikov Edgar**
-*Frontend Developer*
 
 **Extra skills:**
 JavaScript.
